@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"JSHint",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Package Control",
+		"VimL",
+		"Vintageous"
+	]
+}
